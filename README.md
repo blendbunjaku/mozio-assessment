@@ -39,7 +39,7 @@ This project is a React-based web application that allows users to search for tr
     ```bash
    npm start
    or
-   yarn install
+   yarn start
    
 4. **Run Tests**:
    ```bash
