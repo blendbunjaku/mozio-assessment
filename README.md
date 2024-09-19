@@ -26,7 +26,7 @@ This project is a React-based web application that allows users to search for tr
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/blendbunjaku/mozio-assessment.git
    cd your-repo
 
 2. **Install Dependencies**:
